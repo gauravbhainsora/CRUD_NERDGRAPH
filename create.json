@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Policy 1",
+        "incidentPreference": "PER_POLICY"
+    },
+    {
+        "name": "Policy 2",
+        "incidentPreference": "PER_CONDITION"
+    }
+    
+]

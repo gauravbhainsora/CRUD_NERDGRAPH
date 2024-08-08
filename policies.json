@@ -1,0 +1,44 @@
+{
+    "data": {
+        "actor": {
+            "account": {
+                "alerts": {
+                    "policiesSearch": {
+                        "policies": [
+                            {
+                                "id": "5431161",
+                                "incidentPreference": "PER_POLICY",
+                                "name": "foodme-policy"
+                            },
+                            {
+                                "id": "5431653",
+                                "incidentPreference": "PER_CONDITION_AND_TARGET",
+                                "name": "Golden Signals"
+                            },
+                            {
+                                "id": "5456819",
+                                "incidentPreference": "PER_POLICY",
+                                "name": "Service Levels default policy for account 4438261"
+                            },
+                            {
+                                "id": "5514595",
+                                "incidentPreference": "PER_POLICY",
+                                "name": "pref1"
+                            },
+                            {
+                                "id": "5514624",
+                                "incidentPreference": "PER_CONDITION",
+                                "name": "pref2"
+                            },
+                            {
+                                "id": "5514625",
+                                "incidentPreference": "PER_CONDITION_AND_TARGET",
+                                "name": "pref3"
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}

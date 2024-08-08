@@ -1,0 +1,13 @@
+[
+    {
+        "id": "5522852",
+        "name": "Gaurav",
+        "incidentPreference": "PER_POLICY"
+    },
+    {
+        "id": "5522851",
+        "name": "Gary",
+        "incidentPreference": "PER_CONDITION_AND_TARGET"
+    }
+    
+]
